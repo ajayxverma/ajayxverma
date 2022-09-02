@@ -10,6 +10,7 @@ I have acquired decent technical skills with various programming languages, tool
 I love learning new technologies.
 
 - 🌱 I’m currently learning everything 🤣
+- 👀 I’m interested in AI, Machine learning, Cloud.
 - 👯 I’m looking to collaborate on Opensoure Projects
 - ⚡ Fun fact: I love to Programs and play Games.
 
