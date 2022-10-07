@@ -40,6 +40,9 @@ I love learning new technologies.
 [![website](./img/instagram-dark.svg)](https://instagram.com/_ajay_verma#gh-dark-mode-only)
 
  ![Snake animation](https://github.com/ajayxverma/ajayxverma/blob/main/img/github-grid-snake.svg)
+ 
+ ![Ajay Verms](https://github-readme-stats.vercel.app/api?username=ajayxverma&show_icons=true&theme=radical)
+ 
 <!---
 I am a Software Engineer. I develop effective, high-quality, scalable software solutions. I love to learn new technologies and frameworks.
 I have acquired decent technical skills with various programming languages, tools, software packages. With my analytical approach and reasoning, I am capable of breaking down any real-world problem into simple logical issues and address them one by one to build a robust solution for the real problem.
