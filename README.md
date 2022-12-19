@@ -1,7 +1,15 @@
-# Hi there, I'm Ajay Verma 👋 
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
+<h3 align="center">I'm a passionate Software Developer.</h3>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 
-
+<div align="center">
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=600&size=36&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Ajay+Verma;I'm+a+Software+Developer;I+currently+working+as+Full+stack+java++Developer.;I+%E2%9D%A4+LeetCode+Web+3.0)](https://git.io/typing-svg)
+ 
+</div>
 ## I'm a Computer Science Engineer, I currently working as Java Developer.
 
 I am a Computer Science Enginee. I develop effective, high-quality, scalable software solutions. I love to learn new technologies and frameworks.
