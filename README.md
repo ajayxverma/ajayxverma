@@ -7,7 +7,7 @@
 
 <div align="center">
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=600&size=36&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Ajay+Verma;I'm+a+Software+Developer;I+currently+working+as+Full+stack+java++Developer.;I+%E2%9D%A4+LeetCode+Web+3.0)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=600&size=36&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Ajay+Verma;I'm+a+Software+Developer;I+%E2%9D%A4+LeetCode+Web+3.0)](https://git.io/typing-svg)
  
 </div>
 ## I'm a Computer Science Engineer, I currently working as Java Developer.
