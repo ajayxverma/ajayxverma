@@ -15,14 +15,14 @@
 I am a Computer Science Enginee. I develop effective, high-quality, scalable software solutions. I love to learn new technologies and frameworks.
 I have acquired decent technical skills with various programming languages, tools, software packages. With my analytical approach and reasoning, I am capable of breaking down any real-world problem into simple logical issues and address them one by one to build a robust solution for the real problem.
 
-#About Me
+## About Me
 
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m interested in Web Development, AI, Machine learning, Cloud.
 - 👯 I’m looking to collaborate on Opensoure Projects
 - ⚡ Fun fact: I love Coding and play Games.
 
-### Languaages and Framework:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
+## Languaages and Framework:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ajay-verma-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -37,7 +37,7 @@ I have acquired decent technical skills with various programming languages, tool
  
 </div>
 
-### Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
 
 [![website](./img/twitter-light.svg)](https://twitter.com/heyAjayverma#gh-light-mode-only)
