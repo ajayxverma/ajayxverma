@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
 <h3 align="center">I'm a passionate Software Developer.</h3>
 
 <p align="center">
@@ -11,14 +11,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=540&size=32&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Ajay+Verma;I'm+a+Software+Developer;I+%E2%9D%A4+LeetCode+Web+3.0)](https://git.io/typing-svg" />
  
 </div>
-I'm a Computer Science Engineer, I currently working as Java Developer.
-
-I am a Computer Science Engineer. I develop effective, high-quality, scalable software solutions. I love to learn new technologies and frameworks.
-I have acquired decent technical skills with various programming languages, tools, software packages. With my analytical approach and reasoning, I am capable of breaking down any real-world problem into simple logical issues and address them one by one to build a robust solution for the real problem.
+I'm a Software Engineer, I currently working as Full Stack Developer with Strong knowledge of Java, Spring, Spring
+Boot, NodeJs, Express, NestJs, ReactJs, Angular, MicroServices, Database and having years of experience in the field, I am skilled in developing quality programs.
+Excellent knowledge of software design and development especially data structures and product-oriented designs.
+I developed effective, high-quality, scalable software solutions. I love to learn new technologies and frameworks.
+I have acquired excellent technical skills with various programming languages, tools, software packages. With my analytical approach and reasoning, I am capable of breaking down any real-world problem into simple logical issues and address them one by one to build a robust solution for the real problem.
 
 ## About Me
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning ExpressJS and MicorServices.
 - 👀 I’m interested in Web Development, AI, Machine learning, Cloud.
 - 👯 I’m looking to collaborate on Opensoure Projects
 - ⚡ Fun fact: I love Coding and play Games.
