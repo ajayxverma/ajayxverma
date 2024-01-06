@@ -8,7 +8,7 @@
 <div align="center">
  <!---
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=540&size=32&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Ajay+Verma;I'm+a+Software+Developer;I+%E2%9D%A4+LeetCode+Web+3.0)](https://git.io/typing-svg) --->
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=540&size=32&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Ajay+Verma;I'm+a+Software+Developer;)](https://git.io/typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=540&size=32&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Ajay+Verma;I'm+a+Software+Developer;Checkout+My+Repos;)](https://git.io/typing-svg" />
  
 </div>
 I'm a Software Engineer, I currently working as Full Stack Developer with Strong knowledge of JavaScript, TypeScript, NodeJs, Express, NestJs, NextJs, ReactJs, Java, Spring, Spring
@@ -52,8 +52,7 @@ I have acquired excellent technical skills with various programming languages, t
 [![website](./img/instagram-dark.svg)](https://instagram.com/_ajay_verma#gh-dark-mode-only)
 
  ![Snake animation](https://github.com/ajayxverma/ajayxverma/blob/main/img/github-grid-snake.svg)
- 
- ![Ajay Verms](https://github-readme-stats.vercel.app/api?username=ajayxverma&show_icons=true&theme=radical)
+
  
 <!---
 I am a Software Engineer. I develop effective, high-quality, scalable software solutions. I love to learn new technologies and frameworks.
