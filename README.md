@@ -9,7 +9,7 @@
  <!---
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+sans&weight=540&size=32&pause=1000&color=FF1493&width=435&lines=Hey!+It's+Ajay+Verma;I'm+a+Software+Developer;I+%E2%9D%A4+LeetCode+Web+3.0)](https://git.io/typing-svg) --->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=007EF7&random=false&width=435&lines=Hey!+It's+Ajay+Verma;I'am+a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007EF7&random=false&width=435&lines=Hey!+It's+Ajay+Verma;I'am+a+Software+Developer)](https://git.io/typing-svg)
  
 </div>
 I currently working as Full Stack Developer with Strong knowledge of JavaScript, TypeScript, NodeJs, Express, NestJs, NextJs, ReactJs, Java, Spring, Spring
